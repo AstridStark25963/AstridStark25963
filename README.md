@@ -6,20 +6,29 @@
 
 ## Hi there 👋
 
-<!--
-**AstridStark25963/AstridStark25963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub page! I am **AstridStark25963**, a developer passionate about programming and technological innovation. Here, you can check out my projects, code contributions, and skills.
 
-Here are some ideas to get you started:
+### 🔭 What I am currently working on?
+- I am developing a **Python**-based real-time subtitle software and exploring how to package it into an executable.
+- I am in the process of creating my own **personal website**, continually improving and optimizing its content and features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I am currently learning?
+- I am learning **full-stack web development** and **information security** related programming technologies, including **cryptography** and other relevant fields.
+- I am exploring how to enhance website security and user experience with the latest technologies.
+
+### 👯 What collaboration opportunities am I looking for?
+- I am currently focusing on **exchange and learning** and am not considering collaborations at the moment.
+
+### 📫 How to contact me?
+- You can reach me through the following:
+  - **Email**: [astridstark25963@gmail.com](mailto:astridstark25963@gmail.com)
+  - **Twitter**: [@IAmAstridStark](https://x.com/IAmAstridStark)
+
+### ⚡ My hobbies:
+- **Playing the piano**: I love music, especially playing the piano, and I enjoy relaxing through music.
+- **Playing games**: In my free time, I enjoy playing challenging games to unwind.
+
+---
 
 <h2 align="center">GitHub Stats</h2>
 
@@ -32,11 +41,20 @@ Here are some ideas to get you started:
 </div>
 </br>
 
+<h2 align="center">GitHub Trophies</h2>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AstridStark25963&theme=flat&column=4&row=2&margin-w=15&margin-h=15&no-frame=false&no-bg=true" alt="Astrid's GitHub Trophies"/>
 </div>
 </br>
 
+<h2 align="center">Visitor Count</h2>
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/{AstridStark25963}/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/AstridStark25963/count.svg" alt="Visitor Count" />
 </div>
+</br>
+
+---
+
+Thanks for visiting my GitHub! If you have any questions or collaboration opportunities, feel free to reach out! 😊
