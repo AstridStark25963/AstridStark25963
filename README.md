@@ -51,7 +51,7 @@ Welcome to my GitHub page! I am **AstridStark25963**, a developer passionate abo
 <h3 align="center">Visitor Count</h3>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/AstridStark25963/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/{AstridStark25963}/count.svg" alt="Visitor Count" />
 </div>
 </br>
 
