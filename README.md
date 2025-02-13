@@ -4,12 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://1lya.com">
-    <video src="https://ik.imagekit.io/iamastrid/AstridStark.mov/ik-video.mp4?updatedAt=1739435233076">
-  </a>
-</p>
-
 ## Hi there 👋
 
 Welcome to my GitHub page! I am **AstridStark25963**, a developer passionate about programming and technological innovation. Here, you can check out my projects, code contributions, and skills.
