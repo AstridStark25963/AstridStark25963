@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AstridStark25963&theme=flat&column=4&row=2&margin-w=15&margin-h=15&no-frame=false&rank=-C,-B&no-bg=true" alt="Astrid's GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AstridStark25963&theme=flat&column=4&row=2&margin-w=15&margin-h=15&no-frame=false&no-bg=true" alt="Astrid's GitHub Trophies"/>
 </div>
 </br>
 
