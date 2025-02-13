@@ -30,7 +30,7 @@ Welcome to my GitHub page! I am **AstridStark25963**, a developer passionate abo
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
+<h3 align="center">GitHub Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AstridStark25963&show_icons=true&count_private=true&hide_border=false&theme=flat&no-bg=true" alt="Astrid's GitHub Stats"/>
@@ -41,14 +41,14 @@ Welcome to my GitHub page! I am **AstridStark25963**, a developer passionate abo
 </div>
 </br>
 
-<h2 align="center">GitHub Trophies</h2>
+<h3 align="center">GitHub Trophies</h3>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AstridStark25963&theme=flat&column=4&row=2&margin-w=15&margin-h=15&no-frame=false&no-bg=true" alt="Astrid's GitHub Trophies"/>
 </div>
 </br>
 
-<h2 align="center">Visitor Count</h2>
+<h3 align="center">Visitor Count</h3>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/AstridStark25963/count.svg" alt="Visitor Count" />
