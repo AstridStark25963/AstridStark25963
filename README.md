@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://1lya.com">
-    <iframe width="560" height="315" src="https://imagekit.io/player/embed/iamastrid/AstridStark.mov/ik-video.mp4?updatedAt=1739435233076&thumbnail=https%3A%2F%2Fik.imagekit.io%2Fiamastrid%2FAstridStark.mov%2Fik-video.mp4%2Fik-thumbnail.jpg%3FupdatedAt%3D1739435233076&updatedAt=1739435233076" title="ImageKit video player" frameBorder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"> </iframe>
     <video src="https://ik.imagekit.io/iamastrid/AstridStark.mov/ik-video.mp4?updatedAt=1739435233076">
   </a>
 </p>
