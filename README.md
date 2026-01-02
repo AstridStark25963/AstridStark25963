@@ -16,9 +16,6 @@ Welcome to my GitHub page! I am **AstridStark25963**, a developer passionate abo
 - I am learning **full-stack web development** and **information security** related programming technologies, including **cryptography** and other relevant fields.
 - I am exploring how to enhance website security and user experience with the latest technologies.
 
-### 👯 What collaboration opportunities am I looking for?
-- I am currently focusing on **exchange and learning** and am not considering collaborations at the moment.
-
 ### 📫 How to contact me?
 - You can reach me through the following:
   - **Email**: [astridstark25963@gmail.com](mailto:astridstark25963@gmail.com)
@@ -33,18 +30,18 @@ Welcome to my GitHub page! I am **AstridStark25963**, a developer passionate abo
 <h3 align="center">GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AstridStark25963&show_icons=true&count_private=true&hide_border=false&theme=flat&no-bg=true" alt="Astrid's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AstridStark25963&show_icons=true&count_private=true&hide_border=false&theme=flat&no-bg=true&theme=transparent" alt="Astrid's GitHub Stats"/>
 </div>
 </br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstridStark25963&layout=compact&hide_border=false&theme=flat&no-bg=true" alt="Astrid's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstridStark25963&layout=compact&hide_border=false&theme=flat&no-bg=true&theme=transparent" alt="Astrid's Top Languages"/>
 </div>
 </br>
 
 <h3 align="center">GitHub Trophies</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AstridStark25963&theme=flat&column=4&row=2&margin-w=15&margin-h=15&no-frame=false&no-bg=true" alt="Astrid's GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AstridStark25963&theme=flat&column=4&row=2&margin-w=15&margin-h=15&no-frame=false&no-bg=true&theme=transparent" alt="Astrid's GitHub Trophies"/>
 </div>
 </br>
 
