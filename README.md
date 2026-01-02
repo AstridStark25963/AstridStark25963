@@ -30,11 +30,11 @@ Welcome to my GitHub page! I am **AstridStark25963**, a developer passionate abo
 <h3 align="center">GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-six-gray-26.vercel.app/api?username=AstridStark25963&show_icons=true&count_private=true&hide_border=false&theme=flat&no-bg=true&theme=transparent" alt="Astrid's GitHub Stats"/>
+  <img src="https://github-readme-stats-six-gray-26.vercel.app/api?username=AstridStark25963&show_icons=true&count_private=true&hide_border=false&no-bg=true&theme=transparent" alt="Astrid's GitHub Stats"/>
 </div>
 </br>
 <div align="center">
-  <img src="https://github-readme-stats-six-gray-26.vercel.app/api/top-langs/?username=AstridStark25963&layout=compact&hide_border=false&theme=flat&no-bg=true&theme=transparent" alt="Astrid's Top Languages"/>
+  <img src="https://github-readme-stats-six-gray-26.vercel.app/api/top-langs/?username=AstridStark25963&layout=compact&hide_border=false&no-bg=true&theme=transparent" alt="Astrid's Top Languages"/>
 </div>
 </br>
 
