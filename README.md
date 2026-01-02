@@ -41,7 +41,7 @@ Welcome to my GitHub page! I am **AstridStark25963**, a developer passionate abo
 <h3 align="center">GitHub Trophies</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AstridStark25963&theme=flat&column=4&row=2&margin-w=15&margin-h=15&no-frame=false&no-bg=true&theme=transparent" alt="Astrid's GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AstridStark25963&column=4&row=2&margin-w=15&margin-h=15&no-frame=false&no-bg=true&theme=transparent" alt="Astrid's GitHub Trophies"/>
 </div>
 </br>
 
