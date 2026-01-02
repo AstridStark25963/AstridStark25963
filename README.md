@@ -48,7 +48,7 @@ Welcome to my GitHub page! I am **AstridStark25963**, a developer passionate abo
 <h3 align="center">Visitor Count</h3>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/{AstridStark25963}/count.svg" alt="Visitor Count" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAstridStark25963&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false" alt="Visitor Count" />
 </div>
 </br>
 
