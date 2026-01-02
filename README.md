@@ -48,7 +48,7 @@ Welcome to my GitHub page! I am **AstridStark25963**, a developer passionate abo
 <h3 align="center">Visitor Count</h3>
 
 <div align="center">
-  <img src="visit-counter-vert.vercel.app/api/visit" alt="Visitor Count" />
+  <img src="https://visit-counter-vert.vercel.app/api/visit" alt="Visitor Count" />
 </div>
 </br>
 
